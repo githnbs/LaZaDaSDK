@@ -2,6 +2,7 @@
     "name": "githunbs/sjg",
     "description": "tihs is lazadaSdk",
     "type": "project",
+	"homepage": "https://github.com/githnbs/LaZaDaSDK",
     "license": "MIT",
     "authors": [
         {
@@ -9,5 +10,9 @@
             "email": "15210170513@163.com"
         }
     ],
-    "require": {}
+    "require": {
+		"php": ">=5.4.0",
+        "illuminate/support": "~5.0|~5.1|~5.2|~5.3|~5.4|~5.5",
+        "graham-campbell/manager": "^2.0|^3.0"
+	}
 }
