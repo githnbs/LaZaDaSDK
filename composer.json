@@ -1,0 +1,13 @@
+{
+    "name": "githunbs/sjg",
+    "description": "tihs is lazadaSdk",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sean",
+            "email": "15210170513@163.com"
+        }
+    ],
+    "require": {}
+}
