@@ -21,4 +21,6 @@
 	    "Liberty\\LazopClient\\": "src/"
         }
     }
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
