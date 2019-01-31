@@ -18,8 +18,7 @@
     },
    "autoload": {
         "psr-4": {
-        "Flower\\Rose\\": "src/Flower/Rose",
-        "Flower\\Lily\\": "src/Flower/Lily"
+			"Liberty\\LazopClient\\": "src/",
         }
     }
 }
