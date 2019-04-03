@@ -1,4 +1,6 @@
 <?php
+namespace Lazop;
+
 class LazopClient
 {
 	public $appkey;

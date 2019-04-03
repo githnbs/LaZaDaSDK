@@ -1,4 +1,7 @@
 <?php
+
+namespace Lazop;
+
 class LazopRequest
 {
 	public $apiName;

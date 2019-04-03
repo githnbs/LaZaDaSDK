@@ -1,4 +1,6 @@
 <?php
+namespace Lazop;
+
 class Constants
 {
 	static $log_level_debug = "DEBUG";
