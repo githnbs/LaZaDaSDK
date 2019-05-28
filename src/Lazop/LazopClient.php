@@ -15,7 +15,7 @@ class LazopClient
 
 	protected $signMethod = "sha256";
 
-	protected $sdkVersion = "lazop-sdk-php-20180422";
+	protected $sdkVersion = "Lazop-sdk-php-20180422";
 
 	public $logLevel;
 
