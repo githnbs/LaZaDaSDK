@@ -18,7 +18,8 @@
     },
    "autoload": {
         "psr-4": {
-	    "Liberty\\LazopClient\\": "src/"
+          "githnbs\\lazada-sdk\\": "src/",
+          "Lazop\\":"src/Lazop/"
         }
     },
     "minimum-stability": "dev",
