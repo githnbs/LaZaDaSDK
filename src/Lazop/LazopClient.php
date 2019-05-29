@@ -1,6 +1,7 @@
 <?php
 namespace Lazop;
 
+use Exception;
 class LazopClient
 {
 	public $appkey;

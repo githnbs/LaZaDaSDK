@@ -2,6 +2,7 @@
 
 namespace Lazop;
 
+use Exception;
 class LazopRequest
 {
 	public $apiName;
